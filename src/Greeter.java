@@ -1,5 +1,5 @@
 public class Greeter {
-    public void printWelcome(){
+    public void showWelcome(){
         System.out.println("Velkommen til filmsamlingen!");
     }
 }
