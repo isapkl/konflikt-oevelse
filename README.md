@@ -3,6 +3,7 @@
 | Fornavn  | GitHub |
 |----------|--------|
 | Isabella | isapkl |
+| Mikkel  | Hunniche |
 
 Øvelse i Git – 1. semester. 
 
