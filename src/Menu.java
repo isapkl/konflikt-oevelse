@@ -1,6 +1,8 @@
 public class Menu {
-    static void main(String[] args) {
-        System.out.println("1. Opret en film.");
+    public void start() {
+        Greeter greeter = new Greeter();
+        greeter.printWelcome();
+        System.out.println("1. Opret en film");
     }
 }
 
