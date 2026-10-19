@@ -3,3 +3,5 @@ public class Menu {
         System.out.println("1. Opret en film.");
     }
 }
+
+
