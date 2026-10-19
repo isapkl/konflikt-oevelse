@@ -1,6 +1,6 @@
 # Konfliktøvelse
 
-Øvelse i Git – 1. semester.
+Øvelse i Git – 1. semester. 
 | Fornavn | GitHub |
 |---|---|
 
